@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'LeferiPoint-WhiteObliqueA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/LeferiPoint-WhiteObliqueA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h3 {
+  margin-left: auto;
+  margin-right: auto;
+	font-family: 'LeferiPoint-WhiteObliqueA', sans-serif;
+  font-size: 20px;
+}
+
+body {
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 3;
+	font-family: 'LeferiPoint-WhiteObliqueA', sans-serif;
+	font-size: 15px;
+	color: #000;
+  text-align: center;
+  padding: 30px 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+:link {color: #000; }
+:visited {color: #000; }
